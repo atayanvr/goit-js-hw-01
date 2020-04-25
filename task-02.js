@@ -9,7 +9,7 @@ if(ordered < total){
 
 ordered = 80
 
-if(ordered < total){
+if(ordered < total){ 
     console.log("Заказ оформлен, с вами свяжется менеджер".)
 } else {
     console.log("На складе недостаточно твоаров!".)
